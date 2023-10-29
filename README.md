@@ -4,7 +4,7 @@ All documentation for the workshop is best viewed from the github.io pages
 
 Introduction to R for Bioinformatics
 
-June 5,7,9 2023 from 2:00 pm to 5:00 pm
+Oct. 30, Nov. 1, 3 2023 from 2:00 pm to 5:00 pm
 
 Organizer - Bioinformatics Core
 
