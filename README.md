@@ -1,6 +1,6 @@
 All documentation for the workshop is best viewed from the github.io pages
 
-[Documentation](https://ucdavis-bioinformatics-training.github.io/2023-June-Introduction-to-R-for-Bioinformatics/)
+[Documentation](https://ucdavis-bioinformatics-training.github.io/2023-Oct-Introduction-to-R-for-Bioinformatics/)
 
 Introduction to R for Bioinformatics
 
